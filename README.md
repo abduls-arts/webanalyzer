@@ -1,2 +1,2 @@
 # webanalyzer
-detect active vulnerabliti and finding hidden directories 
+detect active vulnerablity and finding hidden directories 
